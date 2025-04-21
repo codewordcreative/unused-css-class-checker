@@ -1,7 +1,7 @@
 # Unused CSS class checker
 A simple Python-based tool to check for loaded but unused CSS classes in rendered HTML.
 
-# Dependencies
+## Dependencies
 beautifulsoup4: Required parse and extract data from the HTML and sitemaps (at least in my case, it worked fine without creating more dependencies).
 requests: Required to make HTTP requests to fetch the pages and the CSS.
 
