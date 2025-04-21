@@ -33,5 +33,5 @@ Ridiculously optimised websites built in Oxygen Classic. I'm trying to experimen
 
 ---
 
-##Special licence terms
+## Special licence terms
 See the notes on the licence tab. Commercial use by companies to improve their own websites is fine. Reselling or redistributing without credit is not. Where there is ambiguity here, the licence notes take precedent.
