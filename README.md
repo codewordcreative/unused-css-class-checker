@@ -1,5 +1,6 @@
 # Unused CSS class checker
 A simple Python-based tool to check for loaded but unused CSS classes in rendered HTML.
+Edit: I'm not sure exactly how it does differ from other tools. Just for my own use case and sites I compared it to, it seemed to be more accurate. Some seem to check the database. Others go straight to actually removing the classes - but that can be overkill, or unhelpful for people using builders with classes that can be deactivated alongside any associated JS. I use the sitemap to do a crawl. Works for me, at least.
 
 ## Dependencies
 beautifulsoup4: Required to parse and extract data from the HTML and sitemaps (at least in my case, it worked fine without creating more dependencies).
